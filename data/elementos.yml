@@ -1,0 +1,61 @@
+################ elementos ####################
+
+txt_whats: "div[class='msg']"
+label_option: "div[class='ic-option']"
+box_text: "input[title='Digite uma mensagem']"
+btn_enviar: "button[class='btn-send']"
+logo: "a[class='ir']"
+title_text: "div[class='ic-select-header']"
+btn_quick_reply: "div[class='quick-reply']"
+btn_reply: "a[class='qr-btn']"
+mes_atual: "li[data-view='month current']"
+ano_atual: "li[data-view='years current']"
+btn_ano_anter: "li[data-view='years prev']"
+item_ano: "li[data-view='years']"
+item_mes: "li[data-view='months']"
+item_mes_picked: 'data-view="month picked"'
+item_dia: "li[data-view='day']"
+txt_date: "form[id='date-input']"
+box_date: "input[placeholder='Insira uma data']"
+btn_copiar: "a[onclick='copiarTexto()']"
+label_option_carrossel: "div[class='ic-button']"
+title_carrossel: "div[class='ic-carousel-header']"
+btn_dir: "div[class='ic-carousel-arrow arrow-right']"
+title_popup: "div[class='entry-title display-flex display-flex-row']"
+btn_popup: "button[class='btn btn-fullscreen']"
+list_popup: "div[class='entry-list']"
+btn_popup: "button[class='btn btn-fullscreen']"
+btn_login: "button[class='login-button center-inline']"
+list-option: "div[class='list-option']"
+
+
+################# Whats Web ###################
+
+conversa_whats: "div[data-tab='8']"
+btn_menu: span[class='kiiy14zj']
+apagar_chat: "div[aria-label='Apagar conversa']"
+apagar_chat_confirma: "button[class='emrlamx0 aiput80m h1a80dm5 sta02ykp g0rxnol2 l7jjieqr hnx8ox4h f8jlpxt4 l1l4so3b le5p0ye3 m2gb0jvt rfxpxord gwd8mfxi mnh9o63b qmy7ya1v dcuuyf4k swfxs4et bgr8sfoe a6r886iw fx1ldmn8 orxa12fk bkifpc9x rpz5dbxo bn27j4ou oixtjehm hjo1mxmu snayiamo szmswy5k']"
+box_text_whats: "div[class='to2l77zo gfz4du6o ag5g9lrv bze30y65 kao4egtt']"
+btn_enviar_whats: "button[class='tvf2evcx oq44ahr5 lb5m6g5c svlsagor p2rjqpw5 epia9gcq']"
+btn_opcoes: "div[class='tvf2evcx m0h2a7mj lb5m6g5c j7l1k36l ktfrpxia nu7pwgvd p357zi0d dnb887gk gjuq5ydh i2cterl7 fhf7t426 sap93d0t gndfcl4n eujn52yf jfqm35v0 ckm995li bdbt56hn']"
+opcoes_lista: "div[class='_199zF _3j691 _3Q3zZ']"
+btn_envia_opcao: "div[class='hHN_-']"
+btn_quick_reply: "div[class='_3KCAK']"
+titulo_lista: "div[class='_2q6pP']"
+texto_botao_lista: "div[class='tvf2evcx m0h2a7mj lb5m6g5c j7l1k36l ktfrpxia nu7pwgvd p357zi0d dnb887gk gjuq5ydh i2cterl7 fhf7t426 sap93d0t gndfcl4n eujn52yf jfqm35v0 ckm995li bdbt56hn']"
+
+
+################## ZNLU ##################
+
+login_znlu: input[id='email_signin']
+senha_znlu: input[id='password']
+btn_logar_znlu: "button[id='btn-next']"
+login_okta: input[id='input28']
+senha_okta: input[id='input36']
+btn_logar_okta: input[class='button button-primary']
+btn_push: "div[data-se='okta_verify-push']"
+btn_enviar_znlu: button[type='submit']
+btn_enviar_arquivo_znlu: "button[id='btn-file-upload']"
+btn_search: "div[class='send-file-btn']"
+btn_upload: "div[id='send-file']"
+close_upload: "div[id='close-upload']" 

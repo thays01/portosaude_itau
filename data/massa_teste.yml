@@ -1,0 +1,19 @@
+# Exemplo de massa
+
+massa_invalida: 'A1A2A3A4A5A6A7A8A9A1A0A'
+
+massa_valida_web: 'A2A1A3A3A8A4A1A3A8A5A6A'
+
+massa_nao_identificado_web: 'A7A7A3A0A7A2A5A4A0A1A8A'
+
+massa_invalida_whats: '12345678910'
+
+massa_nao_identificado: '77307254018'
+
+massa_valida: '21338413856'
+
+massa_dois_planos_web: 'A0A0A1A2A1A2A5A3A7A7A5A'
+
+massa_dois_planos_whats: '17732992717'
+
+

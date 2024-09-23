@@ -1,0 +1,27 @@
+dev:
+  site_bot: 'https://portoassistencia.altu.com.br/widgets/preview/e4348d86203207d54c3e765e575bc0f4?atd=prod'  
+  site_bot_znlu: 'https://portoassistencia.altu.com.br/assistants/builder/88' 
+  site_bot_simulador: 'https://portoassistencia.altu.com.br/assistants/debugger/88?channel=whatsapp&breakpoint=false'
+  site_bot_whats: 'https://web.whatsapp.com/send/?phone=[NÚMERO_DO_WHATS_DO_BOT]]&text&type=phone_number&app_absent=0' 
+  site_bot_facebook: ''
+  
+hom:
+  site_bot: ''
+  site_bot_whats: ''
+  site_bot_facebook:
+  
+prod:
+  site_bot: ''
+  site_bot_whats: ''
+  site_bot_facebook: ''
+  
+qa:
+  site_bot: ''
+  site_bot_whats: ''
+  site_bot_facebook: ''
+
+# site_bot: Login web, link direto do preview em caso de webchat
+# site_bot_znlu: Link do builder usado no acesso ao login ZNLU
+# site_bot_whats: Inserir link do simulador debugger 
+# site_bot_facebook: Inserir link do Facebook
+# Configuração dos ambientes está relacionada ao arquivo .env linhas 20-30

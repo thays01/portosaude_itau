@@ -1,0 +1,17 @@
+source "http://rubygems.org"
+
+gem 'capybara'
+gem 'cucumber'
+gem 'faker'
+gem 'ffaker'
+gem 'ffi'
+gem 'json'
+gem 'poltergeist'
+gem 'pry'
+gem 'report_builder'
+gem 'reportportal'
+gem 'rspec'
+gem 'rubytree'
+gem 'screen-recorder'
+gem 'selenium-webdriver'
+gem 'geckodriver-helper'

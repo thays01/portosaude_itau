@@ -1,0 +1,13 @@
+#Exemplo  de intenções
+intencao_01:
+  medio: 'Frase nível médio'
+  baixo: 'Frase nível baixo'
+  alto: 'Frase nível alto'
+
+intencao_02:
+  medio: 'Frase nível médio'
+  baixo: 'Frase nível baixo'
+  alto: 'Frase nível alto'
+
+#É importante consultar a sua analista de NLU/Curadoria para recorrer às melhores frases. 
+#Todas elas estão em um documento chamado CLN (cadastro de linguagem natural)
